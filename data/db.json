@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Employee": 5
+  },
+  "models": {
+    "Employee": {
+      "1": "{\"fullname\":\"John Mayer\",\"email\":\"contact@johnmayer.com\",\"id\":1}",
+      "2": "{\"fullname\":\"Liam Gallagher\",\"email\":\"liam@oasis.com\",\"id\":2}",
+      "3": "{\"fullname\":\"Noel Gallagher\",\"email\":\"noel@oasis.com\",\"id\":3}",
+      "4": "{\"fullname\":\"Damon Albarn\",\"email\":\"damon@blur.com\",\"id\":4}"
+    }
+  }
+}
